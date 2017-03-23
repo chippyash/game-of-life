@@ -4,7 +4,7 @@
  * An exercise in Matrix programming
  *
  * @author    Ashley Kitson
- * @copyright Ashley Kitson, 017, UK
+ * @copyright Ashley Kitson, 2017, UK
  * @license   GPL-V3.0, See License.md
  */
 namespace Chippyash\Gol;
