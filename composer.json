@@ -1,0 +1,24 @@
+{
+  "name": "chippyash/game_of_life",
+  "description": "Conway's Game of Life using Matrices",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Ashley Kitson",
+      "email": "ashley@zf4.biz"
+    }
+  ],
+  "require": {
+    "chippyash/logic-matrix": "~2.0.2",
+    "chippyash/strong-type": "~3.0.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.7.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "Chippyash\\Gol\\": "src/Gol"
+    }
+  }
+}
